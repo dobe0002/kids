@@ -11,19 +11,19 @@
 
 ## Daily Questions
 
- - [ ] Daily Question: How do people work with animals?
- - [ ] Write as many ways as you can that make 122.
- - [ ] Look around your house - What do you see that has symmetry? 
+ - [X] Daily Question: How do people work with animals?
+ - [X] Write as many ways as you can that make 122.
+ - [X] Look around your house - What do you see that has symmetry? 
 
 ## Writing Notebook
-  - [ ] Based on pages 104-106, What should a guide dog be able to do?
+  - [X] Based on pages 104-106, What should a guide dog be able to do?
 
 ## Math
   - [X] Bridges in Mathematics pgs. 48-49
   - [X] Pengin measuring - Worksheet
   - [X] [Fuzz Bug Game](https://www.abcya.com/games/fuzz_bugs_factory){:target="_blank"}
-  - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/31915/){:target="_blank"}
-  - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/11773/){:target="_blank"}
+  - [X] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/31915/){:target="_blank"}
+  - [X] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/11773/){:target="_blank"}
 
 ## Wonders
   - [X] [Vocabulary Practice](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000412/27/40/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
@@ -32,7 +32,7 @@
   
   - [X] [Ming's Teacher](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000297/4/89/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
   
-  - [ ] [Compound words](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000425/62/76/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [X] [Compound words](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000425/62/76/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
   
  - [ ] [Reread From Puppy to Guide Dog](https://connected.mcgraw-hill.com/mhelibs/projects/ebook-reader/1.11.0/player-reflowable.html#/main?bookUrl=https:%2F%2Fcatalog.mcgraw-hill.com%2Fsecure%2F5B4M53YC3HHRMHRRC6GKZWWKB@;s%3D12C40F9ADBFB1198053498E21D4572FA&readerType=new&pageMode=double&connectEDBaseUrl=https:%2F%2Fconnected.mcgraw-hill.com&stateCode=MN&mghApi=https:%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE&mghClassID=ZZZMFB5GYFPL7MPEXFYCVFWV8O&page=98){:target="_blank"}
   
@@ -41,8 +41,8 @@
   - [X] [Delete ending sounds](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000412/27/37/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
   
 ## Spelling
-  - [ ] Practice words - write in the air
-  - [ ] [Sound Spellings](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000322/7/37/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [X] Practice words - write in the air
+  - [X] [Sound Spellings](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000322/7/37/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
 
 ## Gym
 - [ ] [Tip Tuesday at 2:30 ... code is: AHOCPEGRADE1](https://meet.google.com/wnf-yfnq-xkv){:target="_blank"}
