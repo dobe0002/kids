@@ -14,6 +14,7 @@
 ## Math
 - [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/33257/){:target="_blank"}
 - [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/34405/){:target="_blank"}
+- [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
 
 ## Explorations
 - [New and old plant](https://classroom.google.com/c/NjU3NzcxNTkxODNa/a/Njc0NTIyNTY1MjJa/details){:target="_blank"}
