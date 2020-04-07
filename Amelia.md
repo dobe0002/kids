@@ -2,7 +2,7 @@
 
 [Google classroom](https://classroom.google.com/)
 
-[Lock and key]()
+[Lock and key](https://www.ahschools.us/sign-in)
 
 [Extra activites](Amelia_extra)
 
@@ -20,6 +20,8 @@
   - Bridges in Mathematics pgs. 48-49
   - Pengin measuring - Worksheet
   - [Fuzz Bug Game](https://www.abcya.com/games/fuzz_bugs_number_bonds)
+  - [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/31915/)
+  - [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/11773/)
 
 ## Wonders
   - [Vocabulary Practice](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000412/27/40/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE)
@@ -34,12 +36,14 @@
   
   - [Sequence](https://connected.mcgraw-hill.com/mhelibs/projects/ebook-reader/1.11.0/player-reflowable.html#/main?bookUrl=https:%2F%2Fcatalog.mcgraw-hill.com%2Fsecure%2F5B4M53YC3HHRMHRRC6GKZWWKB@;s%3D12C40F9ADBFB1198053498E21D4572FA&readerType=new&pageMode=double&connectEDBaseUrl=https:%2F%2Fconnected.mcgraw-hill.com&stateCode=MN&mghApi=https:%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE&mghClassID=ZZZMFB5GYFPL7MPEXFYCVFWV8O&page=108)
   
+  - [Delete ending sounds](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000412/27/37/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE)
+  
 ## Spelling
   - Practice words - write in the air
-  
+  - [Sound Spellings](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000322/7/37/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE)
 
-[Delete ending sounds](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000412/27/37/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE)
-
+## Gym
+- [Tip Tuesday at 2:30 ... code is: AHOCPEGRADE1](https://meet.google.com/wnf-yfnq-xkv)
 
 ## Music
 - [Rhythm Practice](https://docs.google.com/document/d/1XgwYay9bAW6bZhi_B-UPSH62IRTmBYNleL_w437TYSY/edit)
