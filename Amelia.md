@@ -21,7 +21,7 @@
 ## Math
   - Bridges in Mathematics pgs. 48-49
   - Pengin measuring - Worksheet
-  - [Fuzz Bug Game](https://www.abcya.com/games/fuzz_bugs_number_bonds){:target="_blank"}
+  - [Fuzz Bug Game](https://www.abcya.com/games/fuzz_bugs_factory){:target="_blank"}
   - [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/31915/){:target="_blank"}
   - [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/11773/){:target="_blank"}
 
