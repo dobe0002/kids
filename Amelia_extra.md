@@ -8,6 +8,6 @@
   - [abcYa](https://www.abcya.com/grades/1){:target="_blank"}
   
   
-  ## Videos
+## Videos
   - [Science Trek - Horses](https://www.pbs.org/video/science-trek-horses/){:target="_blank"}
   - [Brain Pop jr](https://jr.brainpop.com/){:target="_blank"}
