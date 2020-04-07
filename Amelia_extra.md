@@ -10,6 +10,8 @@
   
 ## Videos
   - [Science Trek - Horses](https://www.pbs.org/video/science-trek-horses/){:target="_blank"}
+  - [Why do people have pets](https://www.pbs.org/video/why-do-people-have-pets-oglh24/){:target="_blank"}
+  - [Healing Beyond Medicine](https://www.pbs.org/video/kvie-viewfinder-healing-beyond-medicine/){:target="_blank"}
   - [Brain Pop jr](https://jr.brainpop.com/){:target="_blank"}
 
 ## Books and Reading
