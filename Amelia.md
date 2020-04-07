@@ -47,7 +47,7 @@
 
 ## Music
 - [Rhythm Practice](https://docs.google.com/document/d/1XgwYay9bAW6bZhi_B-UPSH62IRTmBYNleL_w437TYSY/edit){:target="_blank"}
-- [Colour My World](Colour My World by Chicago - https://www.youtube.com/watch?v=kO8iDGgKIFw){:target="_blank"}
+- [Colour My World](https://www.youtube.com/watch?v=kO8iDGgKIFw){:target="_blank"}
 - [Music Games](https://musicplayonline.com/){:target="_blank"}
 
 ## Explorations
