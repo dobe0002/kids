@@ -19,8 +19,8 @@
   - [ ] Based on pages 104-106, What should a guide dog be able to do?
 
 ## Math
-  - [ ] Bridges in Mathematics pgs. 48-49
-  - [ ] Pengin measuring - Worksheet
+  - [X] Bridges in Mathematics pgs. 48-49
+  - [X] Pengin measuring - Worksheet
   - [X] [Fuzz Bug Game](https://www.abcya.com/games/fuzz_bugs_factory){:target="_blank"}
   - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/31915/){:target="_blank"}
   - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/11773/){:target="_blank"}
