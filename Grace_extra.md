@@ -15,7 +15,7 @@
   - [Brain Pop](https://brainpop.com/){:target="_blank"}
 
 ## Books and Reading
-  - [Random Poem](https://www.poetry4kids.com/random/)
+  - [Random Poem](https://www.poetry4kids.com/random/){:target="_blank"}
   - [BookFlix](https://classroom.google.com/c/NjU1NjIwMTk5ODla/a/NTgzOTg4MjIwODda/details){:target="_blank"}
   - [Tumblebooks](https://classroom.google.com/c/NjU1NjIwMTk5ODla/a/NTgzNTc4MzY1NDFa/details){:target="_blank"}
   - [World Book Kids](https://classroom.google.com/c/NjU1NjIwMTk5ODla/a/NTgzOTg4MjIxMzFa/details){:target="_blank"}
