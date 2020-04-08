@@ -14,6 +14,9 @@
  - [ ] Have you ever seen a guide dog?  Where was it and who was it helping?
  - [ ] Write as many ways as you can that make 123.
  - [ ] Take a piece of paper. Does it have a line of symmetry?  More than one?
+ 
+ ## Meeting with Ms. McFerran
+ - [ ] 1:00.  Meeting code: ahoc1mc
 
 ## Writing Notebook
   - [ ] Sign language helped Koko in many ways. Add at least three more sentences using information from Koko and Penny.
