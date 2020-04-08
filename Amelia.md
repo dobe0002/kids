@@ -14,6 +14,8 @@
  - [ ] Have you ever seen a guide dog?  Where was it and who was it helping?
  - [ ] Write as many ways as you can that make 123.
  - [ ] Take a piece of paper. Does it have a line of symmetry?  More than one?
+ - [ ] Watch the [Coronavirus video](https://www.brainpop.com/health/diseasesinjuriesandconditions/coronavirus/){:target="_blank"}  
+ What did you learn?
  
  ## Meeting with Ms. McFerran
  - [ ] 1:00.  Meeting code: ahoc1mc
