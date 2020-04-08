@@ -10,6 +10,8 @@
 - [Hour of code](https://code.org/learn){:target="_blank"}
 - [Mind Craft Hero's Journey](https://studio.code.org/s/hero/stage/1/puzzle/1){:target="_blank"}
 
+## OC
+- [Tall Tales](https://classroom.google.com/c/NDc1Njc0OTA0NzVa/p/NjgzMjgwMTg5NjRa/details){:target="_blank"}
 
 ## Math
 - [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/33257/){:target="_blank"}
