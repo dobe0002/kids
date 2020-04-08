@@ -45,11 +45,11 @@
   - [X] [Sound Spellings](https://catalog.mcgraw-hill.com/repository/protected_content/COMPOUND/50000322/7/37/index.html?mghApi=https%3A%2F%2Fconnected.mcgraw-hill.com%2Frd14s%2Fdynamic%2F1581709970%2FMGH_EBOOK_API.js&mghCourseID=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
 
 ## Gym
-- [ ] [Tip Tuesday at 2:30 ... code is: AHOCPEGRADE1](https://meet.google.com/wnf-yfnq-xkv){:target="_blank"}
+- [X] [Tip Tuesday at 2:30 ... code is: AHOCPEGRADE1](https://meet.google.com/wnf-yfnq-xkv){:target="_blank"}
 
 ## Music
 - [ ] [Rhythm Practice](https://docs.google.com/document/d/1XgwYay9bAW6bZhi_B-UPSH62IRTmBYNleL_w437TYSY/edit){:target="_blank"}
-- [ ] [Colour My World](https://www.youtube.com/watch?v=kO8iDGgKIFw){:target="_blank"}
+- [X] [Colour My World](https://www.youtube.com/watch?v=kO8iDGgKIFw){:target="_blank"}
 - [ ] [Music Games](https://musicplayonline.com/){:target="_blank"}
 
 ## Explorations
