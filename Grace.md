@@ -23,6 +23,9 @@
 
 ## Music
 - Sing a song you know in a new way 
+- [ ] [Americans We March by Henry Fillmore](https://www.youtube.com/watch?v=L_1SXGC5qNQ){:target="_blank"}
+- [ ] [Symphony No. 5 by Beethoven (full)](https://www.youtube.com/watch?v=IvrzJ8uH1PI){:target="_blank"}
+- [ ] [Brain Pop - Beethoven](https://www.brainpop.com/artsandmusic/famousartistsandmusicians/ludwigvanbeethoven/){:target="_blank"}
 
 ## Art
 - [Ojibwe Suitcase Design](https://classroom.google.com/c/NjU3OTkzNTM0Nzha/a/NjczMjk4MTg3ODVa/details){:target="_blank"}
