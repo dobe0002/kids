@@ -18,18 +18,18 @@
  What did you learn?
  
  ## Meeting with Ms. McFerran
- - [ ] 1:00.  Meeting code: ahoc1mc
+ - [X] 1:00.  Meeting code: ahoc1mc
 
 ## Writing Notebook
-  - [ ] Sign language helped Koko in many ways. Add at least three more sentences using information from Koko and Penny.
+  - [X] Sign language helped Koko in many ways. Add at least three more sentences using information from Koko and Penny.
 
 ## Reading
   - [X] [All About Sam](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit){:target="_blank"}
 ## Math
-  - [ ] Bridges in Mathematics pgs. 50.  Can you go beyond 100
+  - [X] Bridges in Mathematics pgs. 50.  Can you go beyond 100
   - [ ] Bridges Math at home = Unit 6
-  - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/33688){:target="_blank"}
-  - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/34663){:target="_blank"}
+  - [X] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/33688){:target="_blank"}
+  - [X] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/34663){:target="_blank"}
   - [ ] [Count money game](https://www.ixl.com/math/grade-1/count-pennies-nickels-and-dimes){:target="_blank"}
   - [ ] [Clock game](https://www.ixl.com/math/grade-1/match-analog-and-digital-clocks){:target="_blank"}
   - [ ] [Word problem games](https://www.ixl.com/math/grade-1/addition-word-problems-one-digit-plus-two-digit-numbers){:target="_blank"}
@@ -46,7 +46,7 @@
   - [ ] Practice words - write in the air
   - [ ] Spelling sentences
 ## Music
-- [ ] [Rhythm Practice](https://docs.google.com/document/d/1XgwYay9bAW6bZhi_B-UPSH62IRTmBYNleL_w437TYSY/edit){:target="_blank"}
+- [X] [Rhythm Practice](https://docs.google.com/document/d/1XgwYay9bAW6bZhi_B-UPSH62IRTmBYNleL_w437TYSY/edit){:target="_blank"}
 - [X] [Americans We March by Henry Fillmore](https://www.youtube.com/watch?v=L_1SXGC5qNQ){:target="_blank"}
 - [X] [Symphony No. 5 by Beethoven (full)](https://www.youtube.com/watch?v=IvrzJ8uH1PI){:target="_blank"}
 - [X] [Brain Pop - Beethoven](https://www.brainpop.com/artsandmusic/famousartistsandmusicians/ludwigvanbeethoven/){:target="_blank"}
@@ -64,7 +64,7 @@
 
 ## Art
   - [X] [Landscape color videos](https://classroom.google.com/c/NTU1OTA3OTEyMzZa/a/NjcyMjk0MzIxMzda/details){:target="_blank"}
-  - [ ] Make Landscape
+  - [X] Make Landscape
     - Use Warm colors
     - Use Cool colors
     - Use Analogous colors
