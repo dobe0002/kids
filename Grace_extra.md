@@ -1,5 +1,8 @@
 # Grace's Extra Activities
 
+## Reading
+  - Night Zookeeper book - see mom
+
 ## Games
   - [Magnetic Poetry](http://play.magneticpoetry.com/poem/Nature/kit/){:target="_blank"}
   - [Blocky Games](https://blockly.games/){:target="_blank"}
