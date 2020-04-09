@@ -1,7 +1,7 @@
 # Amelia's Extra Activities
 
 ## Reading
- - [Teach your monster to read]( www.teachyourmonstertoread.com/u/5427836)
+ - [Teach your monster to read](https://www.teachyourmonstertoread.com/u/5427836)
 
 ## Games
   - [Blocky Games](https://blockly.games/){:target="_blank"}
