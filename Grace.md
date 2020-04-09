@@ -17,6 +17,8 @@
 - [ ] Two pages of cursive packet
 
 ## Math
+- [ ] Page 232 in Bridges Book
+- [ ] Pages 42, 48, 49 in Number Corner Book
 - [ ] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/26992/){:target="_blank"}
 - [ ] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/22989/){:target="_blank"}
 - [ ] [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
