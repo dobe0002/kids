@@ -6,9 +6,6 @@
 
 [Extra activites](Grace_extra){:target="_blank"}
 
-## Hour of Code activities
-- [Hour of code](https://code.org/learn){:target="_blank"}
-- [Mind Craft Hero's Journey](https://studio.code.org/s/hero/stage/1/puzzle/1){:target="_blank"}
 
 ## OC
 - [Tall Tales](https://classroom.google.com/c/NDc1Njc0OTA0NzVa/p/NjgzMjgwMTg5NjRa/details){:target="_blank"}
@@ -23,9 +20,8 @@
 
 ## Music
 - Sing a song you know in a new way 
-- [ ] [Americans We March by Henry Fillmore](https://www.youtube.com/watch?v=L_1SXGC5qNQ){:target="_blank"}
-- [ ] [Symphony No. 5 by Beethoven (full)](https://www.youtube.com/watch?v=IvrzJ8uH1PI){:target="_blank"}
-- [ ] [Brain Pop - Beethoven](https://www.brainpop.com/artsandmusic/famousartistsandmusicians/ludwigvanbeethoven/){:target="_blank"}
+- [ ] [Powerhouse by Raymond Scott](https://www.youtube.com/watch?v=qaC0vNLdLvY){:target="_blank"}
+- [ ] [Rhapsody in Blue by George Gershwin](https://www.youtube.com/watch?v=7-MJZJjJs4A)
 
 ## Art
 - [Ojibwe Suitcase Design](https://classroom.google.com/c/NjU3OTkzNTM0Nzha/a/NjczMjk4MTg3ODVa/details){:target="_blank"}
@@ -34,9 +30,6 @@
 
 ## Connections
  - [Typing Club](https://s.typingclub.com/sportal/){:target="_blank"}
-
-## Gym
-- [Tip Tuesday at 10:30 ... code is: AHOCPEGRADE3](https://meet.google.com/wsa-hupf-iyn){:target="_blank"}
 
 ## Poetry
  - Spring Acrostic poem color sheet
