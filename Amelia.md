@@ -11,9 +11,9 @@
 
 ## Daily Questions
 
- - [ ] What do you know about gorillas?  Have you seen one before?  If so, where?
- - [ ] Write as many ways as you can that make 124.
- - [ ] Count by 10s and write them down in your notebook.
+ - [X] What do you know about gorillas?  Have you seen one before?  If so, where?
+ - [X] Write as many ways as you can that make 124.
+ - [X] Count by 10s and write them down in your notebook.
  - [ ] Write a note, make a card, or do something special for someone in your family.
 
  
@@ -24,11 +24,11 @@
   - [ ] [All About Sam](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit){:target="_blank"}
   
 ## Math
-  - [ ] Blue homework packet pages 101-102
+  - [X] Blue homework packet pages 101-102
   - [ ] Bridges Math at home = Unit 6
   - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/33672){:target="_blank"}
   - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/34349){:target="_blank"}
-  - [ ] [Count money game](https://www.ixl.com/math/grade-1/count-pennies-nickels-and-dimes){:target="_blank"}
+  - [X] [Count money game](https://www.ixl.com/math/grade-1/count-pennies-nickels-and-dimes){:target="_blank"}
   - [ ] [Clock game](https://www.ixl.com/math/grade-1/match-analog-and-digital-clocks){:target="_blank"}
   - [ ] [Word problem games](https://www.ixl.com/math/grade-1/addition-word-problems-one-digit-plus-two-digit-numbers){:target="_blank"}
   - [ ] [Compare games](https://www.ixl.com/math/grade-1/compare-numbers-up-to-100-using-symbols){:target="_blank"}
@@ -36,20 +36,20 @@
 
 ## Wonders
 
- - [ ] Read Saving Mountain Gorillas
- - [ ] Close Reading Companion - pages 130-131
- - [ ] Game - Adverbs 
+ - [X] Read Saving Mountain Gorillas
+ - [X] Close Reading Companion - pages 130-131
+ - [X] Game - Adverbs 
  - [ ] Worksheets
- - [ ] Phonemic Awareness: Add Sounds to Words with Long 
- - [ ] Phonemic Awareness: Blend Words with Long e: y, ey
+ - [X] Phonemic Awareness: Add Sounds to Words with Long 
+ - [X] Phonemic Awareness: Blend Words with Long e: y, ey
 
 ## Spelling
   - [ ] Practice words - write in the air
   - [ ] Spelling sentences
   
 ## Music
-- [ ] [Powerhouse by Raymond Scott](https://www.youtube.com/watch?v=qaC0vNLdLvY){:target="_blank"}
-- [ ] [Rhapsody in Blue by George Gershwin](https://www.youtube.com/watch?v=7-MJZJjJs4A)
+- [X] [Powerhouse by Raymond Scott](https://www.youtube.com/watch?v=qaC0vNLdLvY){:target="_blank"}
+- [X] [Rhapsody in Blue by George Gershwin](https://www.youtube.com/watch?v=7-MJZJjJs4A)
 
 
 
