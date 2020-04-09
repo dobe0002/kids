@@ -15,8 +15,6 @@
 - [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/22989/){:target="_blank"}
 - [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
 
-## Explorations
-- [Send new and old plant](https://classroom.google.com/c/NjU3NzcxNTkxODNa/a/Njc0NTIyNTY1MjJa/details){:target="_blank"}
 
 ## Music
 - Sing a song you know in a new way 
@@ -24,7 +22,6 @@
 - [ ] [Rhapsody in Blue by George Gershwin](https://www.youtube.com/watch?v=7-MJZJjJs4A)
 
 ## Art
-- [Ojibwe Suitcase Design sent via email](https://classroom.google.com/c/NjU3OTkzNTM0Nzha/a/NjczMjk4MTg3ODVa/details){:target="_blank"}
 - [Ojibwe Beaded Bags](http://search.mnhs.org/index.php?brand=cms&q=%22ojibwe%20indians%22&subject[]=Ojibwe%20indians&subject[]=Clothing&subject[]=Bags%20%26%20pouches.%20bandolier&type[]=Artifacts&displaymode=grid){:target="_blank"} - Examples from the Minnesota History Museum
 - [Saving the Ojibwe Language - Discovery Education](https://app.discoveryeducation.com/learn/videos/a3fae0cd-d1f7-4bd5-b9b3-31df84db2f6c/){:target="_blank"}
 
