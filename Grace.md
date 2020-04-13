@@ -11,7 +11,7 @@
 
 
 ## Reading
-
+- [ ] Read pages 334-343
 
 ## Math
 
