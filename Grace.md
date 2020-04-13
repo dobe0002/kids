@@ -6,6 +6,8 @@
 
 [Extra activites](Grace_extra){:target="_blank"}
 
+[Today's meet/hangout](meet.google.com/gsn-vzmt-uny)
+
 
 ## OC
 
