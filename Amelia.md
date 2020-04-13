@@ -38,8 +38,8 @@
   - [ ] [Number Corner Lesson](https://drive.google.com/file/d/1f8OqDpuBE7_guqS5s1LRK37nWfVxMbq6/view){:target="_blank"}
   - [ ] [Math lesson](https://drive.google.com/file/d/1jLXVHVwOT1-WHJkjqYFyOJ0fUiDBVR21/view?usp=sharing){:target="_blank"}
   - [ ] Bridges Math at home = Unit 6
-  - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/34943){:target="_blank"}
-  - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/35412){:target="_blank"}
+  - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/34315){:target="_blank"}
+  - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/34528){:target="_blank"}
   - [ ] [Count money game](https://www.ixl.com/math/grade-1/count-pennies-nickels-and-dimes){:target="_blank"}
   - [ ] [Clock game](https://www.ixl.com/math/grade-1/match-analog-and-digital-clocks){:target="_blank"}
   - [ ] [Word problem games](https://www.ixl.com/math/grade-1/addition-word-problems-one-digit-plus-two-digit-numbers){:target="_blank"}
