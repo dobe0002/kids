@@ -19,7 +19,7 @@
 
 
 ## Writing Notebook
-  - [ ] Choose 2 insects Venn diagram worksheet
+  - [ ] Choose 2 insects [Venn diagram worksheet](https://www.education.com/download/worksheet/172977/venn-diagram.pdf)
   - [ ] [Poems - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/poems/){:target="_blank"} - See mom for quiz
   - [ ] [Rhyming Words - BrainPop Jr](https://jr.brainpop.com/readingandwriting/phonics/rhymingwords/){:target="_blank"} - See mom for quiz
   - [ ] [Writing with Senses - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/writingwiththesenses/){:target="_blank"} - See mom for quiz
