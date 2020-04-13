@@ -2,6 +2,7 @@
 
 ## Reading
   - Night Zookeeper book - see mom
+  - [Teach your monster to read](https://www.teachyourmonstertoread.com/u/5427836)
 
 ## Games
   - [Magnetic Poetry](http://play.magneticpoetry.com/poem/Nature/kit/){:target="_blank"}
