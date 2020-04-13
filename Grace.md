@@ -8,8 +8,8 @@
 
 [Today's meet/hangout](https://meet.google.com/gsn-vzmt-uny){:target="_blank"}
 
-
-## OC
+## Gym 
+  - [ ] [Tip Top Tuesday](https://meet.google.com) - Meeting at 10:30 am => AHOCPEGRADE3
 
 
 ## Reading
@@ -24,11 +24,27 @@
 
 
 ## Music
-- [ ] [Clair de Lune by Debussy](https://www.youtube.com/watch?v=CvFH_6DNRCY)
-- [ ] [Blue Danube Waltz by Strauss](https://www.youtube.com/watch?v=IDaJ7rFg66A)
+- [ ] [Clair de Lune by Debussy](https://www.youtube.com/watch?v=CvFH_6DNRCY){:target="_blank"}
+- [ ] [Blue Danube Waltz by Strauss](https://www.youtube.com/watch?v=IDaJ7rFg66A){:target="_blank"}
+- [ ] [National Emblem March by EE Bagley](https://www.youtube.com/watch?v=U40OIESDwlU){:target="_blank"}
+- Graphic organizer worksheet
+
+## Explorations
+- [ ] [Follow the sun activity](https://safeyoutube.net/w/cnj5){:target="_blank"}
+- [ ] Sunny day observations -Wriate about and draw pictures:
+  1.  From where you are standing look in the directions: North, South, East and West
+  1.  Where is the sun? Don’t look directly at it!
+  1. Where did it rise?
+  1. Where will it set?
+  1. Do you notice any shadows? If so, where are they?
 
 ## Art
-
+- [ ] [Draw King Tutankhamun's mask](https://lh4.googleusercontent.com/JilSS6Z7QNsxL1PbOonxhirScFzOY5i7KqVtUKjXtPE4j8mDbV0FJ9ZQkEyLaM7TSvNOa9PW61zDbRszRWaJQcT5qV8DLKZT0qagKDrbQA5Xl7lXJBQ=w1280){:target="_blank"} Worksheet
+  - [Image of mask](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun#/media/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg){:target="_blank"}
+  - [How to directions](https://lh4.googleusercontent.com/JilSS6Z7QNsxL1PbOonxhirScFzOY5i7KqVtUKjXtPE4j8mDbV0FJ9ZQkEyLaM7TSvNOa9PW61zDbRszRWaJQcT5qV8DLKZT0qagKDrbQA5Xl7lXJBQ=w1280){:target="_blank"}
+  - [Example Video](https://www.youtube.com/watch?time_continue=20&v=GY1yQ_xH6xg&feature=emb_logo){:target="_blank"}
+- [ ] [Ancient Egypt BrainPop Jr](https://jr.brainpop.com/socialstudies/ancienthistory/ancientegypt/){:target="_blank"} - See Mom for quiz
+- [ ] [Egyption Pharaohs](https://www.brainpop.com/socialstudies/worldhistory/egyptianpharaohs/){:target="_blank"} - See Mom for quiz
 
 ## Connections
  - [Typing Club](https://s.typingclub.com/sportal/){:target="_blank"}
