@@ -18,6 +18,8 @@
   - [ ] Choose an animal to research and how it moves.
     - Write 3-5 facts in your writing journal.
     - [ ] Use clay/playdough to make an animal in motion. 
+  - [ ] Spring Acrostic poem color sheet
+  - [ ] [Poems - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/poems/){:target="_blank"} - See mom for quiz
     
 ## Reading
   - [ ] [All About Sam and Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit)
