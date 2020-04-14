@@ -1,13 +1,11 @@
 # Grace
 
 -  [Google classroom](https://classroom.google.com/){:target="_blank"}
--  Lock and key](https://www.ahschools.us/sign-in){:target="_blank"}
+-  [Lock and key](https://www.ahschools.us/sign-in){:target="_blank"}
 -  [Extra activites](Grace_extra){:target="_blank"}
--  [Today's meet/hangout](https://meet.google.com/gsn-vzmt-uny){:target="_blank"}
 -  [Web page](https://dobe0002.github.io/kids/Grace)
 
 ## Gym 
-  - [ ] [Tip Top Tuesday](https://meet.google.com) - Meeting at 10:30 am => AHOCPEGRADE3
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=5&v=w5j6QOhvqIk&feature=emb_logo){:target="_blank"}
 
 
@@ -15,16 +13,15 @@
 - [ ] ?? 
 
 ## Math
-- [X] page 234 in our bridges book 
-- [X] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/26992/){:target="_blank"}
-- [X] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/22989/){:target="_blank"}
+- [ ] page 234 in our bridges book 
+- [ ] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/35535/){:target="_blank"}
+- [ ] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/35476/){:target="_blank"}
 - [ ] [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
 
 
 ## Music
-- [X] [Clair de Lune by Debussy](https://www.youtube.com/watch?v=CvFH_6DNRCY){:target="_blank"}
 - [X] [Blue Danube Waltz by Strauss](https://www.youtube.com/watch?v=IDaJ7rFg66A){:target="_blank"}
-- [X] [National Emblem March by EE Bagley](https://www.youtube.com/watch?v=U40OIESDwlU){:target="_blank"}
+- [ ] [Spinning Song by Mendelssohn](https://www.youtube.com/watch?v=g8-EkH7cn2c){:target="_blank"}
 - [X] Graphic organizer worksheet
 
 ## Explorations
