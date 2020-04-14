@@ -12,21 +12,20 @@
 
 
 ## Reading
-- [X] Read pages 334-343
+- [ ] ?? 
 
 ## Math
-- [X] page 233 in our bridges book 
-- [X] page 47 in our Number corner book
-- [ ] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/26992/){:target="_blank"}
-- [ ] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/22989/){:target="_blank"}
+- [X] page 234 in our bridges book 
+- [X] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/26992/){:target="_blank"}
+- [X] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/22989/){:target="_blank"}
 - [ ] [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
 
 
 ## Music
-- [ ] [Clair de Lune by Debussy](https://www.youtube.com/watch?v=CvFH_6DNRCY){:target="_blank"}
-- [ ] [Blue Danube Waltz by Strauss](https://www.youtube.com/watch?v=IDaJ7rFg66A){:target="_blank"}
-- [ ] [National Emblem March by EE Bagley](https://www.youtube.com/watch?v=U40OIESDwlU){:target="_blank"}
-- Graphic organizer worksheet
+- [X] [Clair de Lune by Debussy](https://www.youtube.com/watch?v=CvFH_6DNRCY){:target="_blank"}
+- [X] [Blue Danube Waltz by Strauss](https://www.youtube.com/watch?v=IDaJ7rFg66A){:target="_blank"}
+- [X] [National Emblem March by EE Bagley](https://www.youtube.com/watch?v=U40OIESDwlU){:target="_blank"}
+- [X] Graphic organizer worksheet
 
 ## Explorations
 - [ ] [Follow the sun activity](https://safeyoutube.net/w/cnj5){:target="_blank"}
