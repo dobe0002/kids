@@ -1,12 +1,10 @@
 # Grace
 
-[Google classroom](https://classroom.google.com/){:target="_blank"}
-
-[Lock and key](https://www.ahschools.us/sign-in){:target="_blank"}
-
-[Extra activites](Grace_extra){:target="_blank"}
-
-[Today's meet/hangout](https://meet.google.com/gsn-vzmt-uny){:target="_blank"}
+-  [Google classroom](https://classroom.google.com/){:target="_blank"}
+-  Lock and key](https://www.ahschools.us/sign-in){:target="_blank"}
+-  [Extra activites](Grace_extra){:target="_blank"}
+-  [Today's meet/hangout](https://meet.google.com/gsn-vzmt-uny){:target="_blank"}
+-  [Web page](https://dobe0002.github.io/kids/Grace)
 
 ## Gym 
   - [ ] [Tip Top Tuesday](https://meet.google.com) - Meeting at 10:30 am => AHOCPEGRADE3
