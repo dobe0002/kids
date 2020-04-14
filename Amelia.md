@@ -10,6 +10,7 @@
 
 ## Gym 
   - [ ] [Tip Top Tuesday](https://meet.google.com) - Meeting at 2:30 pm => AHOCPEGRADE1
+  - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=2&v=gAvWcbtV4JQ&feature=emb_logo){:target="_blank"}
 
 
 ## Daily Questions
