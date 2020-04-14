@@ -14,11 +14,11 @@
 
 
 ## Reading
-- [ ] Read pages 334-343
+- [X] Read pages 334-343
 
 ## Math
-- [ ] page 233 in our bridges book 
-- [ ] page 47 in our Number corner book
+- [X] page 233 in our bridges book 
+- [X] page 47 in our Number corner book
 - [ ] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/26992/){:target="_blank"}
 - [ ] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/22989/){:target="_blank"}
 - [ ] [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
