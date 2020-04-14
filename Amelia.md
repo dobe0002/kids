@@ -1,16 +1,15 @@
 # Amelia
 
-[Google classroom](https://classroom.google.com/){:target="_blank"}
+- [Google classroom](https://classroom.google.com/){:target="_blank"}
+- [Lock and key](https://www.ahschools.us/sign-in){:target="_blank"}
+- [SeeSaw](https://app.seesaw.me/){:target="_blank"}
+- [Extra activites](Amelia_extra){:target="_blank"}
 
-[Lock and key](https://www.ahschools.us/sign-in){:target="_blank"}
-
-[SeeSaw](https://app.seesaw.me/){:target="_blank"}
-
-[Extra activites](Amelia_extra){:target="_blank"}
+## Meet Ms. McFerren
+- [ ] Wednesday at 1:30pm - ahoc1mc
 
 ## Gym 
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=2&v=gAvWcbtV4JQ&feature=emb_logo){:target="_blank"}
-
 
 ## Daily Questions
 
