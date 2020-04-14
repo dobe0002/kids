@@ -52,7 +52,7 @@
 
 
 ## Music
-- [] [Spinning Song by Mendelssohn](https://www.youtube.com/watch?v=g8-EkH7cn2c){:target="_blank"}
+- [ ] [Spinning Song by Mendelssohn](https://www.youtube.com/watch?v=g8-EkH7cn2c){:target="_blank"}
 - [ ] Make each sound a high or a low worksheet
 
 
