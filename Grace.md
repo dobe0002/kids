@@ -13,7 +13,7 @@
 - [ ] ?? 
 
 ## Math
-- [ ] page 234 in our bridges book 
+- [X] page 234 in our bridges book 
 - [ ] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/35535/){:target="_blank"}
 - [ ] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/35476/){:target="_blank"}
 - [ ] [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
