@@ -46,11 +46,15 @@
 - [ ] [Egyption Pharaohs](https://www.brainpop.com/socialstudies/worldhistory/egyptianpharaohs/){:target="_blank"} - See Mom for quiz
 
 ## Connections
- - [Typing Club](https://s.typingclub.com/sportal/){:target="_blank"}
+ - [Hour of Code](https://code.org/hourofcode/overview){:target="_blank"}
 
 ## Poetry
  - [ ] Spring Acrostic poem color sheet
  - [ ] [Poems - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/poems/){:target="_blank"} - See mom for quiz
  - [ ] [Poetry - BrainPop](https://www.brainpop.com/english/writing/poetry/){:target="_blank"} - See mom for quiz
  - [ ] [Discovery Eduction Poetry](https://app.discoveryeducation.com/learn/channels/channel/9d96e0d4-58c2-46f1-b62b-fba74ed89a21){:target="_blank"}
+ 
+ ## OC
+ - [ ] [Tall tale planning](https://classroom.google.com/c/NDc1Njc0OTA0NzVa/a/NzAwMzI0MzE2MjFa/details) - See planning worksheet
+ - [ ] Wrie tall tale
 
