@@ -56,5 +56,5 @@
  
  ## OC
  - [ ] [Tall tale planning](https://classroom.google.com/c/NDc1Njc0OTA0NzVa/a/NzAwMzI0MzE2MjFa/details) - See planning worksheet
- - [ ] Wrie tall tale
+ - [ ] Write tall tale
 
