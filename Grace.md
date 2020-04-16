@@ -11,6 +11,8 @@
 
 ## Reading
 - [ ] ?? 
+- [ ][Schoohouse rock  on barter and trade](https://www.youtube.com/watch?v=wHY5cdExNa8&feature=share){:target="_blank"}
+- [ ][Brain Pop Supply and Demand](https://www.brainpop.com/socialstudies/economics/supplyanddemand/){:target="_blank"}
 
 ## Math
 - [ ] page ???? in our bridges book 
