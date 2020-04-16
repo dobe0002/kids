@@ -7,6 +7,7 @@
 
 ## Meet With Entire Class
 - [ ] Wednesday at 11:00 am - ahoc1mc
+- [ ] Tornado drill at 1:45pm
 
 ## Gym 
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=2&v=gAvWcbtV4JQ&feature=emb_logo){:target="_blank"}
