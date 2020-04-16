@@ -29,12 +29,13 @@
 
 
 ## Reading/ Wonders
-  - [ ] Reread - Hi!  Fly Guy
+  - [ ] Reread - [Hi!  Fly Guy](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=DQ37ZSM5GGG8K8HRGFVOYN7P28&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
     - Retell the story using the skill called point of view
+  - [ ] [Creep Low, Fly High](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=YF6PCOTD9NKM4YZMGXGJYJ29M8&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
   - [ ] Game - Long o words 
   - [ ] [Game - Open syllables](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=V7MGBVO7L62HXELZVQCSFMSZ4M&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [ ] Game - Long i words 
-  - [ ] Game - Inflectional Endings -ed and  -ing 
+  - [ ] [Game - Long i words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=F6SBG89D7Q7K189OS8J4HGSE94&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [ ] [Game - Inflectional Endings -ed and  -ing](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=C3O83KC9XSWDKDHHKMGG5SZPR1&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
   - [ ] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
 
 
