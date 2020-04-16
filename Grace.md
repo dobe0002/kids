@@ -13,20 +13,19 @@
 - [ ] ?? 
 
 ## Math
-- [X] page 234 in our bridges book 
-- [ ] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/35535/){:target="_blank"}
-- [ ] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/35476/){:target="_blank"}
-- [ ] [Math IXL](https://www.ixl.com/math/grade-3){:target="_blank"}
+- [ ] page ???? in our bridges book 
+- [ ] [Solvemoji -1](https://www.solvemoji.com/Puzzle/Puzzle/35448/){:target="_blank"}
+- [ ] [Solvemoji -2](https://www.solvemoji.com/Puzzle/Puzzle/35157/){:target="_blank"}
 
 
 ## Music
-- [X] [Blue Danube Waltz by Strauss](https://www.youtube.com/watch?v=IDaJ7rFg66A){:target="_blank"}
 - [ ] [Spinning Song by Mendelssohn](https://www.youtube.com/watch?v=g8-EkH7cn2c){:target="_blank"}
+- [ ] [Spring by Vivaldi](https://www.youtube.com/watch?v=IjpLxlSMJPo){:target="_blank"}
 - [X] Graphic organizer worksheet
 
 ## Explorations
-- [ ] [Follow the sun activity](https://safeyoutube.net/w/cnj5){:target="_blank"}
-- [ ] Sunny day observations -Wriate about and draw pictures:
+- [X] [Follow the sun activity](https://safeyoutube.net/w/cnj5){:target="_blank"}
+- [X] Sunny day observations -Wriate about and draw pictures:
   1.  From where you are standing look in the directions: North, South, East and West
   1.  Where is the sun? Don’t look directly at it!
   1. Where did it rise?
