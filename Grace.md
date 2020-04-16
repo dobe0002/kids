@@ -36,6 +36,8 @@
   1. Where did it rise?
   1. Where will it set?
   1. Do you notice any shadows? If so, where are they?
+ - [ ] [BrainPop Jr - Sun](https://jr.brainpop.com/science/space/sun/){:target="_blank"} - See Mom for quiz
+ - [ ] [BrainPop - Sun](https://www.brainpop.com/science/space/sun/){:target="_blank"} - See Mom for quiz
 
 ## Art
 - [ ] [Draw King Tutankhamun's mask](https://lh4.googleusercontent.com/JilSS6Z7QNsxL1PbOonxhirScFzOY5i7KqVtUKjXtPE4j8mDbV0FJ9ZQkEyLaM7TSvNOa9PW61zDbRszRWaJQcT5qV8DLKZT0qagKDrbQA5Xl7lXJBQ=w1280){:target="_blank"} Worksheet
