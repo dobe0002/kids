@@ -5,6 +5,9 @@
 -  [Extra activites](Grace_extra){:target="_blank"}
 -  [Web page](https://dobe0002.github.io/kids/Grace)
 
+
+- [ ] Tornado drill at 1:45pm
+
 ## Gym 
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=5&v=w5j6QOhvqIk&feature=emb_logo){:target="_blank"}
 
