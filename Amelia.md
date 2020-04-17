@@ -12,7 +12,7 @@
 ## Daily Questions
 
  - [ ] What is something you have done for one of the specials this week? 
- - [ ] Write as many ways as you can that make 129 using pennies, nickels, abd dimes.
+ - [ ] Write as many ways as you can that make 129 using pennies, nickels, and dimes.
  - [ ] Color butterfly worksheet - https://www.education.com/download/worksheet/169870/all-about-butterflies.pdf  
 
 ## Writing Notebook
@@ -24,7 +24,6 @@
 
 ## Reading/ Wonders
   - [ ] [Reread Koko and Penny - pages 130-137](){:target="_blank"}
-    - Retell the story using the skill called point of view
   - [ ] Game - Long e words 
   - [ ] Game - Compound Words
   - [ ] Game - Long o words 
