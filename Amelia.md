@@ -24,8 +24,8 @@
 
 ## Reading/ Wonders
   - [ ] [Reread Koko and Penny - pages 130-137](){:target="_blank"}
-  - [ ] Game - Long e words 
-  - [ ] Game - Compound Words
+  - [ ] [Game - Long e words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=NQD4YKK8DYYVWB1BW1QM4FYSOO&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [ ] [Game - Compound Words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=PQ5Q5WMP24BPT6WK5TNWX9W3W4&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
   - [ ] Game - Long o words 
   - [ ] [Game - Open syllables](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=V7MGBVO7L62HXELZVQCSFMSZ4M&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
   - [ ] [Game - Long i words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=F6SBG89D7Q7K189OS8J4HGSE94&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
