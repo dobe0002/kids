@@ -11,8 +11,8 @@
 
 ## Daily Questions
 
- - [ ] What is something you have done for one of the specials this week? 
- - [ ] Write as many ways as you can that make 129 using pennies, nickels, and dimes.
+ - [x] What is something you have done for one of the specials this week? 
+ - [x] Write as many ways as you can that make 129 using pennies, nickels, and dimes.
  - [ ] Color butterfly worksheet - https://www.education.com/download/worksheet/169870/all-about-butterflies.pdf  
 
 ## Writing Notebook
@@ -23,39 +23,39 @@
 
 
 ## Reading/ Wonders
-  - [ ] [Reread Koko and Penny - pages 130-137](){:target="_blank"}
-  - [ ] [Game - Long e words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=NQD4YKK8DYYVWB1BW1QM4FYSOO&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [ ] [Game - Compound Words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=PQ5Q5WMP24BPT6WK5TNWX9W3W4&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [ ] Game - Long o words 
-  - [ ] [Game - Open syllables](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=V7MGBVO7L62HXELZVQCSFMSZ4M&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [ ] [Game - Long i words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=F6SBG89D7Q7K189OS8J4HGSE94&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [ ] [Game - Inflectional Endings -ed and  -ing](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=C3O83KC9XSWDKDHHKMGG5SZPR1&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [ ] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
+  - [x] [Reread Koko and Penny - pages 130-137](){:target="_blank"}
+  - [x] [Game - Long e words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=NQD4YKK8DYYVWB1BW1QM4FYSOO&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [x] [Game - Compound Words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=PQ5Q5WMP24BPT6WK5TNWX9W3W4&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [x] Game - Long o words 
+  - [x] [Game - Open syllables](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=V7MGBVO7L62HXELZVQCSFMSZ4M&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [x] [Game - Long i words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=F6SBG89D7Q7K189OS8J4HGSE94&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [x] [Game - Inflectional Endings -ed and  -ing](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=C3O83KC9XSWDKDHHKMGG5SZPR1&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
+  - [x] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
 
 
 ## Math
-  - [ ] [Number Corner Lesson](https://expl.ai/PGTLQDG){:target="_blank"}
+  - [x] [Number Corner Lesson](https://expl.ai/PGTLQDG){:target="_blank"}
   - [ ] Bridges Math at home = Unit 6
   - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/35052){:target="_blank"}
   - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/35596){:target="_blank"}
-  - [ ] [Count money game](https://www.abcya.com/games/counting_money){:target="_blank"}
-  - [ ] [Comparison game](https://www.abcya.com/games/comparing_number_values){:target="_blank"}
+  - [x] [Count money game](https://www.abcya.com/games/counting_money){:target="_blank"}
+  - [x] [Comparison game](https://www.abcya.com/games/comparing_number_values){:target="_blank"}
   - [ ] [Telling time game](https://www.abcya.com/games/telling_time){:target="_blank"}
   
 
 ## Spelling
- - [ ] [Unit 4 Week 5 Spelling Review Lesson](https://drive.google.com/file/d/1gObhPGjeCTnUBC5F_fYzrpBlIO2ffdEi/view?usp=sharing){:target="_blank"}
- - [ ] [Long e Lesson](https://drive.google.com/open?id=1sRbbEzi4cXoMkafNRaSc5Ol1-YDXgrzA){:target="_blank"}
+ - [x] [Unit 4 Week 5 Spelling Review Lesson](https://drive.google.com/file/d/1gObhPGjeCTnUBC5F_fYzrpBlIO2ffdEi/view?usp=sharing){:target="_blank"}
+ - [x] [Long e Lesson](https://drive.google.com/open?id=1sRbbEzi4cXoMkafNRaSc5Ol1-YDXgrzA){:target="_blank"}
 
 
 ## Music
-- [ ] [Take 5 by Dave Brubeck](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
-- [ ] [Twinkle Little Star 12 Variations by Mozart](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
-- [ ] Make each sound a high or a low worksheet
+- [x] [Take 5 by Dave Brubeck](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
+- [x] [Twinkle Little Star 12 Variations by Mozart](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
+- [x] Make each sound a high or a low worksheet
 
 
 ## Explorations
-- [ ] My Timeline worksheet
+- [x] My Timeline worksheet
 
 
 ## Connections
