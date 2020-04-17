@@ -26,10 +26,12 @@
 ## Music
 - [ ] [Spinning Song by Mendelssohn](https://www.youtube.com/watch?v=g8-EkH7cn2c){:target="_blank"}
 - [ ] [Spring by Vivaldi](https://www.youtube.com/watch?v=IjpLxlSMJPo){:target="_blank"}
-- [X] Graphic organizer worksheet
+- [ ] [Take 5 by Dave Brubeck](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
+- [ ] [Twinkle Little Star 12 Variations by Mozart](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
+- [ ] Graphic organizer worksheet
 
 ## Explorations
-- [X] [Follow the sun activity](https://safeyoutube.net/w/cnj5){:target="_blank"}
+- [ ] [Follow the sun activity](https://safeyoutube.net/w/cnj5){:target="_blank"}
 - [X] Sunny day observations -Wriate about and draw pictures:
   1.  From where you are standing look in the directions: North, South, East and West
   1.  Where is the sun? Don’t look directly at it!
