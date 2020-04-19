@@ -35,6 +35,7 @@
   - [ ] [BrainPOp Jr  Classify Animals](https://jr.brainpop.com/science/animals/classifyinganimals/){:target="_blank"}
 	- [ ] [Game - Sortiify: Animals](https://jr.brainpop.com/games/sortifyanimalsjr/?tid=132){:target="_blank"}
   - [ ] [BrainPop Jr Making Predictions](https://jr.brainpop.com/science/beascientist/makingandtestingpredictions/){:target="_blank"}
+  - [ ] [Irregular plurals Ski Game](https://www.education.com/game/irregular-plural-nouns-skirace/)
 
 
 ## Math
