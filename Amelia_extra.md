@@ -14,6 +14,7 @@
   - [Science Trek - Zoology](https://www.pbslearningmedia.org/resource/65945170-6462-496d-ad00-3909b4f585af/zoology-science-trek/){:target="_blank"}
   - [Healing Beyond Medicine](https://www.pbs.org/video/kvie-viewfinder-healing-beyond-medicine/){:target="_blank"}
   - [Brain Pop jr](https://jr.brainpop.com/){:target="_blank"}
+  - [Virtually Visit National Parks](https://artsandculture.withgoogle.com/en-us/national-parks-service/parks){:target="_blank"}
 
 ## Books and Reading
   - [BookFlix](https://classroom.google.com/c/NjU1NjIwMTk5ODla/a/NTgzOTg4MjIwODda/details){:target="_blank"}
