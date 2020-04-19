@@ -10,12 +10,17 @@
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=2&v=gAvWcbtV4JQ&feature=emb_logo){:target="_blank"}
 
 ## Daily Questions
+  - [ ] What did you do on the weekend?  What was your favorite thing and why?
 
- - [x] What is something you have done for one of the specials this week? 
- - [x] Write as many ways as you can that make 129 using pennies, nickels, and dimes.
- - [ ] Color butterfly worksheet - https://www.education.com/download/worksheet/169870/all-about-butterflies.pdf  
 
 ## Writing Notebook
+  - [ ] [4-20 Writing Lesson](https://drive.google.com/file/d/1_7j3Sa9q8tNh9q4c-bEk_FR9MOI6Z65M/view){:target="_blank"}
+    1. Shared Writing - Mom/Dad writes down the ideas that you find in the story.  
+    1. Prompt: Why did the animals choose the hats they chose?  
+    1. Topic sentence: The animals chose their hats for different reasons.  
+    1. Use first, next, then, and last.  
+    1. Closure sentence: The animals liked their hats for different reasons.
+
   - [ ] [Ladybug poem](https://www.enchantedlearning.com/poetry/acrostic/picture/ladybug.pdf){:target="_blank"}
   - [ ] [Poems - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/poems/){:target="_blank"} - See mom for quiz
   - [ ] [Rhyming Words - BrainPop Jr](https://jr.brainpop.com/readingandwriting/phonics/rhymingwords/){:target="_blank"} - See mom for quiz
@@ -23,46 +28,53 @@
 
 
 ## Reading/ Wonders
-  - [x] [Reread Koko and Penny - pages 130-137](){:target="_blank"}
-  - [x] [Game - Long e words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=NQD4YKK8DYYVWB1BW1QM4FYSOO&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [x] [Game - Compound Words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=PQ5Q5WMP24BPT6WK5TNWX9W3W4&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [x] Game - Long o words 
-  - [x] [Game - Open syllables](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=V7MGBVO7L62HXELZVQCSFMSZ4M&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [x] [Game - Long i words](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=F6SBG89D7Q7K189OS8J4HGSE94&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [x] [Game - Inflectional Endings -ed and  -ing](https://connected.mcgraw-hill.com/connected/redirectWithThumbnail.do?assetId=C3O83KC9XSWDKDHHKMGG5SZPR1&bookId=PPCGQEFLHFLOWRZXX7OHHKKQTE){:target="_blank"}
-  - [x] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
+  - [ ] [4-20 Reading lesson](https://drive.google.com/file/d/1_7j3Sa9q8tNh9q4c-bEk_FR9MOI6Z65M/view){:target="_blank"}
+    - [ ] Read [A Barn Full of Hats]()
+  - [ ] [Ms Monson's story time](https://www.facebook.com/OxbowCreekElementary/videos/522747698632808/){:target="_blank"}
+  - [ ] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
+  - [ ] [BrainPOp Jr  Classify Animals](https://jr.brainpop.com/science/animals/classifyinganimals/){:target="_blank"}
+	- [ ] [Game - Sortiify: Animals](https://jr.brainpop.com/games/sortifyanimalsjr/?tid=132){:target="_blank"}
+  - [ ] [BrainPop Jr Making Predictions](https://jr.brainpop.com/science/beascientist/makingandtestingpredictions/){:target="_blank"}
 
 
 ## Math
-  - [x] [Number Corner Lesson](https://expl.ai/PGTLQDG){:target="_blank"}
-  - [ ] Bridges Math at home = Unit 6
+  - [ ] [Number Corner Lesson](https://drive.google.com/file/d/1DmWnLnPgLADczYNYyUGhJaUJjQdvMKJ0/view?usp=sharing){:target="_blank"}
+    - Supplies: Math Notebook, Number Corner Book Page 61, & a Pencil
+  - [ ] [Math Lesson](https://drive.google.com/file/d/1f6U4GA1k_Qm92qHMpx_24NpQuQCela4m/view?usp=sharing){:target="_blank"} 
+    - Supplies: Math notebook, pencil, paratice book page 53, Crayons, and a deck of cards OR index cards
   - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/35052){:target="_blank"}
   - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/35596){:target="_blank"}
-  - [x] [Count money game](https://www.abcya.com/games/counting_money){:target="_blank"}
-  - [x] [Comparison game](https://www.abcya.com/games/comparing_number_values){:target="_blank"}
+  - [ ] [Count money game](https://www.abcya.com/games/counting_money){:target="_blank"}
+  - [ ] [Comparison game](https://www.abcya.com/games/comparing_number_values){:target="_blank"}
   - [ ] [Telling time game](https://www.abcya.com/games/telling_time){:target="_blank"}
   
 
 ## Spelling
- - [x] [Unit 4 Week 5 Spelling Review Lesson](https://drive.google.com/file/d/1gObhPGjeCTnUBC5F_fYzrpBlIO2ffdEi/view?usp=sharing){:target="_blank"}
- - [x] [Long e Lesson](https://drive.google.com/open?id=1sRbbEzi4cXoMkafNRaSc5Ol1-YDXgrzA){:target="_blank"}
+  - [ ] [Unit 5 week 1 day 1 spelling lesson](https://drive.google.com/open?id=1GuvqsdWk9_xjyNzVplH3NMrA0KbaPi1d){:target="_blank"}
+  - [ ] Word search
+  - [ ] [Pirates say AR!](https://safeYouTube.net/w/Y2r6){:target="_blank"}
 
 
 ## Music
-- [x] [Take 5 by Dave Brubeck](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
-- [x] [Twinkle Little Star 12 Variations by Mozart](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
-- [x] Make each sound a high or a low worksheet
+- [ ] [Ms Lindstrom and This Land is Your Land)(https://drive.google.com/file/d/1QOGe6Z7gKedaQ-KYsP5AA-acAQmY6cpf/view)
+- [ ] [In the Hall of Mountain King by Edvard Grieg](https://www.youtube.com/watch?v=kLp_Hh6DKWc){:target="_blank"}
+- [ ] [Moonlight Sonata by Beethoven](https://www.youtube.com/watch?v=4591dCHe_sE){:target="_blank"}
+
 
 
 ## Explorations
-- [x] My Timeline worksheet
+- [ ] [Live Video Class at 2:30pm ](https://meet.google.com/lookup/febewscc62){:target="_blank"}
+- [ ] [School in the past video](https://www.youtube.com/watch?v=n4lFPv82M_s){:target="_blank"}
+  1. [ ] Worksheet
+  
+
 
 
 ## Connections
-  Done
+
   
 ## Art
-  Done
+
  
 ## Brain Breaks
 - [The Floss Dance](https://safeYouTube.net/w/j5L5)
