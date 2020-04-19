@@ -6,8 +6,6 @@
 -  [Web page](https://dobe0002.github.io/kids/Grace)
 
 
-- [ ] Tornado drill at 1:45pm
-
 ## Gym 
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=5&v=w5j6QOhvqIk&feature=emb_logo){:target="_blank"}
 
@@ -28,6 +26,8 @@
 - [ ] [Spring by Vivaldi](https://www.youtube.com/watch?v=IjpLxlSMJPo){:target="_blank"}
 - [ ] [Take 5 by Dave Brubeck](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
 - [ ] [Twinkle Little Star 12 Variations by Mozart](https://www.youtube.com/watch?v=vmDDOFXSgAs){:target="_blank"}
+- [ ] [In the Hall of Mountain King by Edvard Grieg](https://www.youtube.com/watch?v=kLp_Hh6DKWc){:target="_blank"}
+- [ ] [Moonlight Sonata by Beethoven](https://www.youtube.com/watch?v=4591dCHe_sE){:target="_blank"}
 - [ ] Graphic organizer worksheet
 
 ## Explorations
