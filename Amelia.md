@@ -10,8 +10,7 @@
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=2&v=gAvWcbtV4JQ&feature=emb_logo){:target="_blank"}
 
 ## Daily Questions
-  - [x] What did you do on the weekend?  What was your favorite thing and why?
-
+ 
 
 ## Writing Notebook
   - [ ] [4-20 Writing Lesson](https://drive.google.com/file/d/1_7j3Sa9q8tNh9q4c-bEk_FR9MOI6Z65M/view){:target="_blank"}
@@ -20,62 +19,66 @@
     1. Topic sentence: The animals chose their hats for different reasons.  
     1. Use first, next, then, and last.  
     1. Closure sentence: The animals liked their hats for different reasons.
+  - [ ] [4-21 Writing Lesson](https://drive.google.com/file/d/1F-t0-gukMzM2YpiQsvpRLeacVIYePxPS/view)
+	- Prompt: Did each of the animals choose the right hat? Why or why not?   
+	- Find evidence that supports your opinion.
+	- Topic sentence: I think the farm animals chose the right hats. (or did not choose)
+	- Write supporting sentences.
+	- Closure sentence: The farm animals chose the right hats. (or did not choose)
 
-  - [x] [Ladybug poem](https://www.enchantedlearning.com/poetry/acrostic/picture/ladybug.pdf){:target="_blank"}
-  - [ ] [Poems - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/poems/){:target="_blank"} - See mom for quiz
   - [ ] [Rhyming Words - BrainPop Jr](https://jr.brainpop.com/readingandwriting/phonics/rhymingwords/){:target="_blank"} - See mom for quiz
   - [ ] [Writing with Senses - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/writingwiththesenses/){:target="_blank"} - See mom for quiz
 
 
 ## Reading/ Wonders
-  - [x] [4-20 Reading lesson](https://drive.google.com/file/d/1_7j3Sa9q8tNh9q4c-bEk_FR9MOI6Z65M/view){:target="_blank"}
-    - [x] Read [A Barn Full of Hats]()
-  - [x] [Ms Monson's story time](https://www.facebook.com/OxbowCreekElementary/videos/522747698632808/){:target="_blank"}
-  - [x] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
+  - [ ] [4-21 Reading lesson](https://drive.google.com/file/d/1j2RQsH1Jdq_8APnmhbT8sio-EE9Pru-C/view){:target="_blank"}
+  - [ ] [Read Goldilocks]()
+  - [ ] [Read a Barn Full of Hats]()
+  	- Retell story using point of view.
+  - [ ] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
   - [ ] [BrainPOp Jr  Classify Animals](https://jr.brainpop.com/science/animals/classifyinganimals/){:target="_blank"}
 	- [ ] [Game - Sortiify: Animals](https://jr.brainpop.com/games/sortifyanimalsjr/?tid=132){:target="_blank"}
   - [ ] [BrainPop Jr Making Predictions](https://jr.brainpop.com/science/beascientist/makingandtestingpredictions/){:target="_blank"}
-  - [x] [Irregular plurals Ski Game](https://www.education.com/game/irregular-plural-nouns-skirace/)
 
 
 ## Math
-  - [x] [Number Corner Lesson](https://drive.google.com/file/d/1DmWnLnPgLADczYNYyUGhJaUJjQdvMKJ0/view?usp=sharing){:target="_blank"}
-    - Supplies: Math Notebook, Number Corner Book Page 61, & a Pencil
-  - [ ] [Math Lesson](https://drive.google.com/file/d/1f6U4GA1k_Qm92qHMpx_24NpQuQCela4m/view?usp=sharing){:target="_blank"} 
+  - [ ] [Number Corner Lesson](https://expl.ai/NNZZGKP)
+  - [ ] [Math Lesson 4-20](https://drive.google.com/file/d/1f6U4GA1k_Qm92qHMpx_24NpQuQCela4m/view?usp=sharing){:target="_blank"} 
     - Supplies: Math notebook, pencil, paratice book page 53, Crayons, and a deck of cards OR index cards
-  - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/35052){:target="_blank"}
-  - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/35596){:target="_blank"}
+  - [ ] [Math Lesson 4-21](https://drive.google.com/file/d/1sS2DOgie0GtibvT6VU5TwmACJgaH_GaT/view)
+  - [ ] [Hansel and Gretel](https://drive.google.com/file/d/1rKPmxsQs6RhVWz9kPCibSMPXiSixVWL1/view?usp=sharing)
+  - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/35044){:target="_blank"}
+  - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/34503){:target="_blank"}
   - [ ] [Count money game](https://www.abcya.com/games/counting_money){:target="_blank"}
   - [ ] [Comparison game](https://www.abcya.com/games/comparing_number_values){:target="_blank"}
   - [ ] [Telling time game](https://www.abcya.com/games/telling_time){:target="_blank"}
   
 
 ## Spelling
-  - [x] [Unit 5 week 1 day 1 spelling lesson](https://drive.google.com/open?id=1GuvqsdWk9_xjyNzVplH3NMrA0KbaPi1d){:target="_blank"}
+  - [ ] [Unit 5 week 1 day 2 spelling lesson](https://drive.google.com/open?id=1lqwpLgPO93TgHc2ouQuYc-lin2atI6yW){:target="_blank"}
+  	- Supplies: Paper, pencil, and colors
   - [ ] Word search
-  - [x] [Pirates say AR!](https://safeYouTube.net/w/Y2r6){:target="_blank"}
+  - [x] [AR video](https://safeYouTube.net/w/g0r6){:target="_blank"}
 
 
 ## Music
-- [x] [Ms Lindstrom and This Land is Your Land)(https://drive.google.com/file/d/1QOGe6Z7gKedaQ-KYsP5AA-acAQmY6cpf/view)
-- [x] [In the Hall of Mountain King by Edvard Grieg](https://www.youtube.com/watch?v=kLp_Hh6DKWc){:target="_blank"}
-- [x] [Moonlight Sonata by Beethoven](https://www.youtube.com/watch?v=4591dCHe_sE){:target="_blank"}
-
+- [ ] [It Don't Mean a Thing by Duke Ellington](https://www.youtube.com/watch?v=qDQpZT3GhDg){:target="_blank"}
+- [ ] [Haitian Dance Video](https://www.youtube.com/watch?v=DzhQO4K9Z48){:target="_blank"}
+- [ ]  Take the rhythm that you created in [Week 2](https://docs.google.com/document/d/1qBhjq2wATp_fzwJJLIErRKNhDb7_P9IJ_s5681t6wQc/edit) and say it using different words like animals, fruit.  Perform on video
+- [ ] Sing 5 songs from music class that are your favorites!.  Peform on video.
 
 
 ## Explorations
-- [x] [Live Video Class at 2:30pm ](https://meet.google.com/lookup/febewscc62){:target="_blank"}
-- [x] [School in the past video](https://www.youtube.com/watch?v=n4lFPv82M_s){:target="_blank"}
-  1. [x] Worksheet
-  
-
+Done
 
 
 ## Connections
-
+NA
   
 ## Art
-
+- [Color Mixing Hand Video](https://drive.google.com/open?id=1EyFqKc8g4CKE01hg6VSg8SfVQ5udCXjn&authuser=0)
+- [Color Mixing Example](https://drive.google.com/open?id=15ORNguiuTYI0L7vzReMaULDbzNvMx6bB&authuser=0)
+- [Color Wheel](https://classroom.google.com/c/NTU1OTA3OTEyMzZa/a/NzAwNDc5NzMwMDZa/details)
  
 ## Brain Breaks
 - [The Floss Dance](https://safeYouTube.net/w/j5L5)
