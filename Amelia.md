@@ -10,7 +10,7 @@
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=2&v=gAvWcbtV4JQ&feature=emb_logo){:target="_blank"}
 
 ## Daily Questions
- 
+ - [ ] What is your favorite hat to wear? Why?
 
 ## Writing Notebook
   - [ ] [4-20 Writing Lesson](https://drive.google.com/file/d/1_7j3Sa9q8tNh9q4c-bEk_FR9MOI6Z65M/view){:target="_blank"}
