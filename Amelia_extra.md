@@ -9,6 +9,12 @@
   - [Solve me puzzles](https://solveme.edc.org/){:target="_blank"}
   - [abcYa](https://www.abcya.com/grades/1){:target="_blank"}
   
+## Human Body
+ - [Bodies on BrainPop Jr](https://jr.brainpop.com/health/bodies/){:target="_blank"}
+ - [Science Trek - Human Body](https://www.pbs.org/show/science-trek/collections/human-body/){:target="_blank"}
+ - [Learn the Skeletal System](https://www.abcya.com/games/skeletal_system){:target="_blank"}
+ - [How the Body Works](https://kidshealth.org/en/kids/center/htbw-main-page.html?WT.ac=k-nav-htbw-main-page){:target="_blank"}
+ 
   
 ## Videos
   - [Science Trek - Zoology](https://www.pbslearningmedia.org/resource/65945170-6462-496d-ad00-3909b4f585af/zoology-science-trek/){:target="_blank"}
