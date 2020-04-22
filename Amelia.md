@@ -19,6 +19,7 @@
 
 ## Daily Questions
  - [ ] How can you help take of the Earth?
+ - [ ] Draw a card for a staff member
 
 ## Writing Notebook
   - [ ] [4-21 Writing Lesson](https://drive.google.com/file/d/1F-t0-gukMzM2YpiQsvpRLeacVIYePxPS/view){:target="_blank"}
