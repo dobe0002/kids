@@ -5,6 +5,10 @@
 -  [Extra activites](Grace_extra){:target="_blank"}
 -  [Web page](https://dobe0002.github.io/kids/Grace)
 
+## Earth Day
+ - [The Lorax](https://safeyoutube.net/w/jLr6){:target="_blank"}
+ - [Virtual Tours](earthDay){:target="_blank"}
+ 
 
 ## Gym 
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=5&v=w5j6QOhvqIk&feature=emb_logo){:target="_blank"}
