@@ -5,48 +5,57 @@
 - [SeeSaw](https://app.seesaw.me/){:target="_blank"}
 - [Extra activites](Amelia_extra){:target="_blank"}
 
+- Amelia McFerren=> Wednesday 1:20pm
+- Amelia Music => Wednesday, 2:30pm
+
+
+## Earth Day
+ - [The Lorax](https://safeyoutube.net/w/jLr6){:target="_blank"}
+ - [Virtual Tours](earthDay){:target="_blank"}
+ 
 
 ## Gym 
   - [ ] [Practice Dance](https://www.youtube.com/watch?time_continue=2&v=gAvWcbtV4JQ&feature=emb_logo){:target="_blank"}
 
 ## Daily Questions
- - [x] What is your favorite hat to wear? Why?
+ - [ ] How can you help take of the Earth?
 
 ## Writing Notebook
-  - [x] [4-20 Writing Lesson](https://drive.google.com/file/d/1_7j3Sa9q8tNh9q4c-bEk_FR9MOI6Z65M/view){:target="_blank"}
-    1. Shared Writing - Mom/Dad writes down the ideas that you find in the story.  
-    1. Prompt: Why did the animals choose the hats they chose?  
-    1. Topic sentence: The animals chose their hats for different reasons.  
-    1. Use first, next, then, and last.  
-    1. Closure sentence: The animals liked their hats for different reasons.
-  - [ ] [4-21 Writing Lesson](https://drive.google.com/file/d/1F-t0-gukMzM2YpiQsvpRLeacVIYePxPS/view)
+  - [ ] [4-21 Writing Lesson](https://drive.google.com/file/d/1F-t0-gukMzM2YpiQsvpRLeacVIYePxPS/view){:target="_blank"}
 	- Prompt: Did each of the animals choose the right hat? Why or why not?   
 	- Find evidence that supports your opinion.
 	- Topic sentence: I think the farm animals chose the right hats. (or did not choose)
 	- Write supporting sentences.
 	- Closure sentence: The farm animals chose the right hats. (or did not choose)
+  - [ ] [4-22 Writing Lesson](https://drive.google.com/file/d/1dmYxpn0JCysIMW4B9yf8PXcSaYLk7Igd/view){:target="_blank"}
+ 	- Prompt: Do you think Frog or Toad was the better friend?  Why?  
+	- Topic sentence:I think Frog (Toad) was the best friend in A Lost Button.  
+	- Write complete sentences to support your opinion using text evidence.
+	- Use words like so, and, but, and because to join sentences.  
+	- Concluding statement. Frog (Toad) was a good friend in many ways.   
 
   - [ ] [Rhyming Words - BrainPop Jr](https://jr.brainpop.com/readingandwriting/phonics/rhymingwords/){:target="_blank"} - See mom for quiz
   - [ ] [Writing with Senses - BrainPop Jr](https://jr.brainpop.com/readingandwriting/writing/writingwiththesenses/){:target="_blank"} - See mom for quiz
 
 
 ## Reading/ Wonders
-  - [x] [4-21 Reading lesson](https://drive.google.com/file/d/1j2RQsH1Jdq_8APnmhbT8sio-EE9Pru-C/view){:target="_blank"}
-  - [x] [Read Goldilocks]()
-  - [x] [Read a Barn Full of Hats]()
+  - [ ] [4-22 Reading lesson](https://drive.google.com/file/d/1HGMwM0amQvSTpYtEFzAPNX4YkyEIr6e3/view){:target="_blank"}
+  - [ ] Read "A Lost Button"
   	- Retell story using point of view.
-  - [x] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
+  - [ ]  optional extra reading practice of small group books added daily to the checklist
+  - [ ] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
   - [ ] [BrainPOp Jr  Classify Animals](https://jr.brainpop.com/science/animals/classifyinganimals/){:target="_blank"}
 	- [ ] [Game - Sortiify: Animals](https://jr.brainpop.com/games/sortifyanimalsjr/?tid=132){:target="_blank"}
   - [ ] [BrainPop Jr Making Predictions](https://jr.brainpop.com/science/beascientist/makingandtestingpredictions/){:target="_blank"}
 
 
 ## Math
-  - [x] [Number Corner Lesson](https://expl.ai/NNZZGKP)
+  - [ ] [Number Corner Lesson](https://drive.google.com/file/d/1XsZUzT6_Bij58H4yFi38JvR7pYfBdHq_/view?usp=sharing){:target="_blank"}
   - [ ] [Math Lesson 4-20](https://drive.google.com/file/d/1f6U4GA1k_Qm92qHMpx_24NpQuQCela4m/view?usp=sharing){:target="_blank"} 
     - Supplies: Math notebook, pencil, paratice book page 53, Crayons, and a deck of cards OR index cards
-  - [x] [Math Lesson 4-21](https://drive.google.com/file/d/1sS2DOgie0GtibvT6VU5TwmACJgaH_GaT/view)
-  - [x] [Hansel and Gretel](https://drive.google.com/file/d/1rKPmxsQs6RhVWz9kPCibSMPXiSixVWL1/view?usp=sharing)
+  - [ ] [Math Lesson 4-22](https://drive.google.com/file/d/103lVZzSUwBAqD_2bKkLIBsigdRC6wWa8/view?usp=sharing){:target="_blank"} 
+  
+  - [ ] [Hansel and Gretel](https://drive.google.com/open?id=1tSjQXJ2LrEN2s2MTahuHOVodl8_lUlPS&authuser=0){:target="_blank"}
   - [ ] [Solvemoji - 1](https://www.solvemoji.com/Puzzle/Puzzle/35044){:target="_blank"}
   - [ ] [Solvemoji - 2](https://www.solvemoji.com/Puzzle/Puzzle/34503){:target="_blank"}
   - [ ] [Count money game](https://www.abcya.com/games/counting_money){:target="_blank"}
@@ -55,10 +64,10 @@
   
 
 ## Spelling
-  - [x] [Unit 5 week 1 day 2 spelling lesson](https://drive.google.com/open?id=1lqwpLgPO93TgHc2ouQuYc-lin2atI6yW){:target="_blank"}
+  - [ ] [Unit 5 week 1 day 3 spelling lesson](https://drive.google.com/open?id=1AMjSU3UoONa6AbG9qjrp7Sd7QaRTXS1T){:target="_blank"}
   	- Supplies: Paper, pencil, and colors
   - [ ] Word search
-  - [x] [AR video](https://safeYouTube.net/w/g0r6){:target="_blank"}
+  - [ ] [AR video](https://safeYouTube.net/w/3jr6){:target="_blank"}
 
 
 ## Music
