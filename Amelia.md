@@ -71,8 +71,7 @@
 
 
 ## Music
-- [x] [It Don't Mean a Thing by Duke Ellington](https://www.youtube.com/watch?v=qDQpZT3GhDg){:target="_blank"}
-- [x] [Haitian Dance Video](https://www.youtube.com/watch?v=DzhQO4K9Z48){:target="_blank"}
+- [ ] [Johannes Brahms -- Hungarian Dance No.5 ](https://www.youtube.com/watch?v=Nzo3atXtm54){:target="_blank"}
 - [ ]  Take the rhythm that you created in [Week 2](https://docs.google.com/document/d/1qBhjq2wATp_fzwJJLIErRKNhDb7_P9IJ_s5681t6wQc/edit) and say it using different words like animals, fruit.  Perform on video
 - [ ] Sing 5 songs from music class that are your favorites!.  Peform on video.
 
