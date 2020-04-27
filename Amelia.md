@@ -6,6 +6,7 @@
 - [Extra activites](Amelia_extra){:target="_blank"}
 
 - Amelia Class Show and Tell => Monday 11:30 am. - Code: ahoc1mc
+- Amelia Explorations => Mondays at 2:30pm
 
 
 ## Daily Questions
@@ -34,12 +35,16 @@
   	-  Math Notebook, Dice, & Pencil
   - [ ] [Math Lesson](https://drive.google.com/file/d/1tBYGXYuyXLw0msJaudY2HQ93BUV59-sT/view?usp=sharing){:target="_blank"} 
     - Supplies: Math notebook, pencil, paratice book page 60
-  - [ ] [Math Lesson 4-23](https://drive.google.com/file/d/1XPdmLd1G1jHmp4mbRKkMHIu7qFLg0a6a/view?usp=sharing){:target="_blank"} 
+  - [ ] [The Greedy Triangle](https://safeYouTube.net/w/fmq8){:target="_blank"} 
 
 ## SeeSaw Video
  - [ ] Choose something today to highlight for me that you did over the weekend 
  
- 
+## Moon
+- [ ] [Moon video](https://www.pbs.org/video/d4k-the-moon-vxwv6a/){:target="_blank"}
+- [ ] [Moon simulator](https://moon.nasa.gov/)
+- [ ] [BrainPop Moon](https://jr.brainpop.com/science/space/moon/)
+
 ## Music
 - [ ] [Flight of the Bumblebee by  Rimsky-Korsakov](https://www.youtube.com/watch?v=M93qXQWaBdE){:target="_blank"}
 - [ ] [Flight of the Tuba Bee by Canadian Brass](https://www.youtube.com/watch?v=_OO7sityUwE){:target="_blank"}
