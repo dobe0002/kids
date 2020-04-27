@@ -61,4 +61,5 @@ After you have drawn your picture of what you mostly use, please label (name) th
 
   
 ## Art
-
+- [The Very Hungry Caterpillar Assignment](https://classroom.google.com/c/NTU1OTA3OTEyMzZa/a/NzIyNzQ2Mzg3MjJa/details){:target="_blank"}
+- [ ] [The Very Hungry Catepiller Video](https://www.youtube.com/watch?v=75NQK-Sm1YY){:target="_blank"}
