@@ -24,6 +24,7 @@
 ## Writing Notebook
   - [ ] What did Fern do in the story?
   - [ ] Go outside and write down what you observe.  What do you hear?  What do you see? Maybe draw a picture!
+  - [ ] [Adjective game](https://www.turtlediary.com/game/adjective-words.html){:target="_blank"}
 
 ## Spelling
   - [ ] [4-27 spelling lesson](https://drive.google.com/open?id=1CVxnI96qMqIzOCBCRbDmvxOUjmr1XQs3){:target="_blank"}
@@ -53,7 +54,8 @@
 
 
 ## Explorations
-
+- [ ] We want to always remember going through distance learning as an entire community. In order to that, I would like for you to draw a picture of the "tool" or "tools" that you are using for distance learning. That could be a chrome book, tablet, paper, pencil, or crayons.
+After you have drawn your picture of what you mostly use, please label (name) the parts. If you have time, write a sentence or two about distance learning.... we don't ever want to forget!
 
 ## Connections
 
