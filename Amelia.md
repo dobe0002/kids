@@ -11,46 +11,48 @@
 
 ## Daily Questions
  - [ ] Ms McFerren's Welcome Video
- - [ ] What did you do on the weekend?  What was your favorite thing and why?
+ - [ ] Have you ever noticed “pictures” in the clouds before?  Tell someone about it.
 
 ## Reading/ Wonders
  - [ ] Read "A Lost Button"
  	- Do activities in Reading Companion
-  - [ ] [4-27 Reading lesson](https://drive.google.com/file/d/1na9m6jCJo5jPWXfHFOwKhIGIozZWmfVL/view){:target="_blank"}
-  - [ ] Read "A Bird Named Fern"
+  - [ ] [4-28 Reading lesson](https://drive.google.com/file/d/17cy0wb4kDsgdPTs0JALK2oab5t1CFX1p/view){:target="_blank"}
+  - [ ] Reread "A Bird Named Fern"
+    - Reread “A Bird Named Fern” - pages 140-149.  Retell the story using cause and effect. 
   - [ ] Wonders => Choose Read, and look for your small group book to read.  
   - [ ] [Toys Go Out](https://docs.google.com/document/d/1ucISWm50hSFFfUmbYSedTSbLlBP3UXRR5yTle4iao7Y/edit?usp=sharing){:target="_blank"}
 
 ## Writing Notebook
-  - [ ] What did Fern do in the story?
-  - [ ] Go outside and write down what you observe.  What do you hear?  What do you see? Maybe draw a picture!
+  - [ ] How do you know that Fern was curious?
+  - [ ] What are you curious about?
+  - [ ] What are some things that you see in the sky during the day?
   - [ ] [Adjective game](https://www.turtlediary.com/game/adjective-words.html){:target="_blank"}
 
 ## Spelling
-  - [ ] [4-27 spelling lesson](https://drive.google.com/open?id=1CVxnI96qMqIzOCBCRbDmvxOUjmr1XQs3){:target="_blank"}
+  - [ ] [4-28 spelling lesson](https://drive.google.com/open?id=1wCY7IMjRlQOF7-qDQ63NKiANcZsFmHos){:target="_blank"}
   	- Supplies: Paper, pencil, and colors
   - [ ] Wonders Games
 
 ## Math
-  - [ ] [Number Corner Lesson](https://expl.ai/ZPYZCKM){:target="_blank"}
-  	-  Math Notebook, Dice, & Pencil
-  - [ ] [Math Lesson](https://drive.google.com/file/d/1tBYGXYuyXLw0msJaudY2HQ93BUV59-sT/view?usp=sharing){:target="_blank"} 
-    - Supplies: Math notebook, pencil, paratice book page 60
-  - [ ] [The Greedy Triangle](https://safeYouTube.net/w/fmq8){:target="_blank"} 
+  - [ ] [Number Corner Lesson](https://drive.google.com/file/d/1kBAGoa3twFAZat07DCAt8_lHIPoLvqvX/view?usp=sharing){:target="_blank"}
+  	-  Supplies: Math Notebook, Number Corner Book Page 60, Spinner or Dice, 120 grid, & Pencil
+  - [ ] [Math Lesson](https://drive.google.com/file/d/1MtD6kGXn9sICtQhvQi-fcYXzhI5tN0GF/view?usp=sharing){:target="_blank"} 
+    - Supplies: Math Notebook, Bridges Book Page 61, Crayons, & Pencil
 
 ## SeeSaw Video
- - [ ] Choose something today to highlight for me that you did over the weekend 
+ - [ ] Choose something today to highlight for me with READING  in Seesaw using a video, picture, or note.
  
 ## Moon
 - [ ] [Moon video](https://www.pbs.org/video/d4k-the-moon-vxwv6a/){:target="_blank"}
-- [ ] [Moon simulator](https://moon.nasa.gov/)
-- [ ] [BrainPop Moon](https://jr.brainpop.com/science/space/moon/)
+- [ ] [Moon simulator](https://moon.nasa.gov/){:target="_blank"}
+- [ ] [Ready Jet Go](https://pbskids.org/readyjetgo/videos){:target="_blank"}
+- [ ] [BrainPop Moon](https://www.brainpop.com/science/space/moon/){:target="_blank"}
+- [ ] [BrainPop Phases of the Moon](https://www.brainpop.com/science/space/moonphases/){:target="_blank"}
 
 ## Music
-- [ ] [Flight of the Bumblebee by  Rimsky-Korsakov](https://www.youtube.com/watch?v=M93qXQWaBdE){:target="_blank"}
-- [ ] [Flight of the Tuba Bee by Canadian Brass](https://www.youtube.com/watch?v=_OO7sityUwE){:target="_blank"}
-- [ ] [Bugler's Holiday by Leroy Anderson](https://www.youtube.com/watch?v=XHDd0jQxrI0){:target="_blank"}
-- [ ] [Gymnopedie no 1 by Erik Satie](https://www.youtube.com/watch?v=2WfaotSK3mI){:target="_blank"}
+- [ ] [ALEXANDER'S RAGTIME BAND- ORIGINAL SOUNDTRACK- IRVING BERLIN.](https://www.youtube.com/watch?v=6gbBkXHRM1o){:target="_blank"}
+- [ ] [Debussy - La cathédrale engloutie](https://www.youtube.com/watch?v=JAVyKDDsM3s){:target="_blank"}
+
 
 
 ## Explorations
@@ -58,7 +60,7 @@
 After you have drawn your picture of what you mostly use, please label (name) the parts. If you have time, write a sentence or two about distance learning.... we don't ever want to forget!
 
 ## Connections
-
+- [ ] Make a  "I miss you" or "Thank you" message to all your teachers
   
 ## Art
 - [The Very Hungry Caterpillar Assignment](https://classroom.google.com/c/NTU1OTA3OTEyMzZa/a/NzIyNzQ2Mzg3MjJa/details){:target="_blank"}
