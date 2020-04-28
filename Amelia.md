@@ -52,6 +52,10 @@
 ## Music
 - [ ] [ALEXANDER'S RAGTIME BAND- ORIGINAL SOUNDTRACK- IRVING BERLIN.](https://www.youtube.com/watch?v=6gbBkXHRM1o){:target="_blank"}
 - [ ] [Debussy - La cathédrale engloutie](https://www.youtube.com/watch?v=JAVyKDDsM3s){:target="_blank"}
+- [ ] Janet Jackson Black Cat - https://www.youtube.com/watch?v=qH-rPt1ftSo
+- [ ] Enya Anywhere Is - https://www.youtube.com/watch?v=EZ98IJ0usoE
+- [ ] Shaking the Tree by Peter Gabriel - https://petergabriel.com/video/shaking-the-tree/
+- [ ] Ave Maria sung by Andrea Bocelli - https://www.youtube.com/watch?v=pwp1CH5R-w4
 
 
 
