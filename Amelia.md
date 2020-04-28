@@ -57,6 +57,7 @@
 - [ ] Shaking the Tree by Peter Gabriel - https://petergabriel.com/video/shaking-the-tree/
 - [ ] Ave Maria sung by Andrea Bocelli - https://www.youtube.com/watch?v=pwp1CH5R-w4
 - [ ] Zombie Zoo by Tom Petty - https://www.youtube.com/watch?v=GjYgdLgKfpo
+- [ ] Do you hear the people sing from Les Miserables - https://www.youtube.com/watch?v=YL8gH0yELbk
 
 
 ## Explorations
