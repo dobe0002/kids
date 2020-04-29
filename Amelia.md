@@ -60,6 +60,7 @@
 - [ ] Ave Maria sung by Andrea Bocelli - https://www.youtube.com/watch?v=pwp1CH5R-w4
 - [ ] Zombie Zoo by Tom Petty - https://www.youtube.com/watch?v=GjYgdLgKfpo
 - [ ] Do you hear the people sing from Les Miserables - https://www.youtube.com/watch?v=-J9AjWomvE0
+- [ ] Stars and Strips Forever by John P. Sousa - https://www.youtube.com/watch?v=a-7XWhyvIpE
 
 
 ## Explorations
