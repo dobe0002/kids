@@ -5,7 +5,7 @@
 - [SeeSaw](https://app.seesaw.me/){:target="_blank"}
 - [Extra activites](Amelia_extra){:target="_blank"}
 
-11:30pm - Class meeting
+[Story time](https://event.on24.com/wcc/r/2312322/A8719FDD230298A37F66E7ABE4C88446)
 
 ## Daily Questions
  - [ ] Ms McFerren's Welcome Video
