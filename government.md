@@ -1,6 +1,7 @@
 # Our government and the election
 
 ## Brain Pop
+
 - [Branches of Government](https://www.brainpop.com/socialstudies/elections/branchesofgovernment/)
 
 - [Branches of Government - Jr](https://jr.brainpop.com/socialstudies/government/branchesofgovernment/)
@@ -11,12 +12,13 @@
 
 - [Presidential Election](https://www.brainpop.com/socialstudies/usgovernment/presidentialelection/)
 
+## Fun Videos
 
-
-## Fun Video
 - [I am a bill on capital hill](https://www.youtube.com/watch?v=H-eYBZFEzf8)
 
+- [Three Branches of Government](https://www.youtube.com/watch?v=OvwlRTYvU8o)
 
+- [Virtual tour - US Capital](https://www.youtube.com/watch?v=qvgq1awXNzs)
 
 ## Games
 
@@ -28,4 +30,6 @@
 
 - [US Geography Puzzle](https://www.abcya.com/games/usa_geography_puzzle_map)
 
+## Virtual Tours
 
+- [Capital tour](https://www.capitol.gov/)
