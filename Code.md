@@ -1,7 +1,6 @@
 # Coding
 
 - [Blocky Games](https://blockly.games/)
-- [Code.org](https://studio.code.org/sections/TCRHJH)
 
 * [Robotics Science Trek](https://www.pbs.org/video/science-trek-robotics/)
 * [Math Playground Code Games](https://www.mathplayground.com/index_coder.html)
