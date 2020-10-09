@@ -19,5 +19,3 @@
 ## Code.org
 
 - [Code.org](https://studio.code.org/sections/TRTMCY)
-
-[Anne Frank Google sheet](https://docs.google.com/document/d/14YKd_tnqyLFFVUnj1VdkhfJWvechZFGGEv9sQ8VyY9Y/edit)
