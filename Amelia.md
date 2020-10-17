@@ -1,10 +1,15 @@
 # Amelia
 
+## Be Internet Awesome!
+
+- [Interland Games](https://beinternetawesome.withgoogle.com/en_us/interland)
+
 ## Collection of Fun Stuff
 
 - [Learn about US government](government.md)
 - [Poetry](poetry.md)
 - [Coding](Code.md)
+- [States of Matter](statesofmatter.md)
 
 ## Khan Academy
 

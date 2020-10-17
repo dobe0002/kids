@@ -11,9 +11,7 @@
 ## Videos
 
 - [Poetry in America The Great Huron](https://www.poetryinamerica.org/episode/the-gray-heron/){:target="\_blank"}
-
-- [Poetry - BrainPop](https://www.brainpop.com/english/writing/poetry/){:target="\_blank"} - See mom for quiz
-
+- [Poetry - BrainPop](https://www.brainpop.com/english/writing/poetry/){:target="\_blank"}
 - [Discovery Eduction Poetry](https://app.discoveryeducation.com/learn/channels/channel/9d96e0d4-58c2-46f1-b62b-fba74ed89a21){:target="\_blank"}
 
 ### BrainPop Jr
