@@ -1,5 +1,9 @@
 # Amelia
 
+## Be Internet Awesome!
+
+- [Interland Games](https://beinternetawesome.withgoogle.com/en_us/interland)
+
 ## Collection of Fun Stuff
 
 - [Learn about US government](government.md)
