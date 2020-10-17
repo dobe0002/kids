@@ -24,4 +24,4 @@
 
 ## Challenge!!
 
--[Ice Fishing Challenge](https://www.sciencefun.org/kidszone/experiments/ice-fishing/){:target="\_blank"}
+- [Ice Fishing Challenge](https://www.sciencefun.org/kidszone/experiments/ice-fishing/){:target="\_blank"}
