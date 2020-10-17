@@ -6,9 +6,10 @@
 
 ## Collection of Fun Stuff
 
-- [Learn about US government](government.md)
+- [US government](government.md)
 - [Poetry](poetry.md)
 - [Coding](Code.md)
+- [States of Matter](statesofmatter.md)
 
 ## Khan Academy
 
