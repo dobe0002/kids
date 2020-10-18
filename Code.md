@@ -1,5 +1,10 @@
 # Coding
 
+## Code.org
+- [Code.org - Grace](https://studio.code.org/sections/TRTMCY){:target="\_blank"}
+- [Code.org - Amelia](https://studio.code.org/sections/TCRHJH){:target="\_blank"}
+
+## Coding Games
 - [Blocky Games](https://blockly.games/){:target="\_blank"}
 - [Robotics Science Trek](https://www.pbs.org/video/science-trek-robotics/){:target="\_blank"}
 - [Math Playground Code Games](https://www.mathplayground.com/index_coder.html){:target="\_blank"}
