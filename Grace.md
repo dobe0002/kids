@@ -6,6 +6,13 @@
 - [Play Interland Game](https://beinternetawesome.withgoogle.com/en_us/interland){:target="\_blank"}
 - [Look at Environment items](Topics/environment.md)
 
+## I can code:
+
+https://us02web.zoom.us/j/81021532311?pwd=SUlxclVvRHJvdTE3TkRrYUZiTm1Jdz09
+
+- [codeingame](https://www.codingame.com/start)
+- [Bockly](https://developers.google.com/blockly)
+
 ## Collection of Fun Stuff
 
 - [US government](Topics/government.md)
