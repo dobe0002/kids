@@ -1,10 +1,11 @@
 # Grace
 
-## My Week (Oct. 26, 2020)
+## My Week
 
 - [Finish Mom packet]()
+- [Write friendly letter]()
 - [Play Interland Game](https://beinternetawesome.withgoogle.com/en_us/interland){:target="\_blank"}
-- [Look at Environment items](Topics/environment.md)
+- [Look at Watercycle items](Topics/watercycle.md)
 
 ## I can code:
 
@@ -15,6 +16,7 @@ https://us02web.zoom.us/j/81021532311?pwd=SUlxclVvRHJvdTE3TkRrYUZiTm1Jdz09
 
 ## Collection of Fun Stuff
 
+- [Watercycle](Topics/watercycle.md)
 - [US government](Topics/government.md)
 - [Poetry](Topics/poetry.md)
 - [Coding](Topics/Code.md)
