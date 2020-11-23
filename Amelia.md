@@ -7,6 +7,7 @@
 - [Play Interland Game](https://beinternetawesome.withgoogle.com/en_us/interland){:target="\_blank"}
 - [Look at Watercycle items](Topics/watercycle.md)
 - [TED Health Videos](https://ed.ted.com/lessons?student_level=1&category=health){:target="\_blank"}
+- [Thanksgiving items](Topics/thanksgiving.md)
 
 ## Collection of Fun Stuff
 

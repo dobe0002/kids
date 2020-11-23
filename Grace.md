@@ -6,6 +6,7 @@
 - [Write friendly letter]()
 - [Play Interland Game](https://beinternetawesome.withgoogle.com/en_us/interland){:target="\_blank"}
 - [Look at Watercycle items](Topics/watercycle.md)
+- [Thanksgiving items](Topics/thanksgiving.md)
 
 ## I can code:
 
