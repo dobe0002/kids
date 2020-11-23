@@ -16,6 +16,7 @@
 - [Virtual Fieldtrip to Plymouth Rock](https://historyview.org/library/plymouth-rock/){:target="\_blank"}
 - [Explore Pilgrim Villager House](https://historyview.org/library/pilgrim-villager-house/){:target="\_blank"}
 - [Explore Wampanoag Homesite Wetu](https://historyview.org/library/wampanoag-homesite-wetu/){:target="\_blank"}
+- [Virtual Field Trips](https://www.plimoth.org/learn/plimoth-online-historyhome/virtual-field-trip){:target="\_blank"}
 
 ## Coloring sheet
 
